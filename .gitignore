@@ -1,0 +1,6 @@
+api.env
+.vscode
+.idea
+*.pyc
+.ipynb_checkpoints
+*.ipynb
